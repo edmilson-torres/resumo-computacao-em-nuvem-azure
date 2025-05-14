@@ -8,7 +8,7 @@ Servidores virtuais que permitem rodar sistemas operacionais e aplicativos perso
 ✅ **Vantagens:** Controle total sobre a configuração, escalabilidade, possibilidade de rodar qualquer sistema operacional.  
 ❌ **Desvantagens:** Requer gerenciamento manual de atualizações, segurança e infraestrutura.
 
-### 🐳 **Instâncias de Contêiner - IaaS**
+### 🐳 **Instâncias de Contêiner - PaaS**
 Permite rodar aplicações em contêineres sem precisar gerenciar servidores físicos.
 
 ✅ **Vantagens:** Menos sobrecarga administrativa, facilidade para escalar aplicações rapidamente.  
