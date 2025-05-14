@@ -2,7 +2,7 @@
 
 ## 🌟 SLA - Garantia de Disponibilidade  
 O SLA (Service Level Agreement) é tipo aquele contrato que diz o quanto a Microsoft garante que sua máquina virtual vai estar sempre online. No Azure, algumas VMs têm **99.9%** ou até **99.99% de disponibilidade** (depende da configuração e redundância).  
-🔗 [Saiba mais sobre SLA no Azure](https://learn.microsoft.com/pt-br/azure/virtual-machines/sla)  
+🔗 [Saiba mais sobre SLA no Azure](https://learn.microsoft.com/pt-br/azure/virtual-machines/overview)  
 
 ---  
 
@@ -10,7 +10,7 @@ O SLA (Service Level Agreement) é tipo aquele contrato que diz o quanto a Micro
 Azure tem **data centers espalhados pelo mundo inteiro!**  
 🔹 Escolher uma boa região ajuda na **latência** e no **custo**.  
 🔹 Algumas regiões oferecem **zonas de disponibilidade**, garantindo que sua VM fique **redundante**, caso uma zona caia!  
-🔗 [Saiba mais sobre regiões e disponibilidade no Azure](https://learn.microsoft.com/pt-br/azure/availability-zones/az-overview)  
+🔗 [Saiba mais sobre Máquinas virtuais no Azure](https://learn.microsoft.com/pt-br/azure/availability-zones/az-overview)  
 
 ---  
 
